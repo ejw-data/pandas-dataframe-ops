@@ -1,4 +1,4 @@
-# Analysis of School and Purchasing Data
+# Analysis of School Data
 
 ## Objective
 ### Analysis was performed using Pandas.
@@ -9,6 +9,7 @@
 | Change Date | Description |  
 |--- | --- |    
 | 1/1/2020 | Updated readme |  
+| 6/15/2021 | Split repo into two parts - 1) Sales, 2) Education |
 
 <br>
 <br>
